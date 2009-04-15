@@ -1,0 +1,5 @@
+ext/Makefile
+ext/get_date.bundle
+ext/get_date.o
+ext/mkmf.log
+*.gem
